@@ -1,0 +1,3 @@
+/Users/dylanneve1/Desktop/androidjsontool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dylanneve1/Desktop/androidjsontool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dylanneve1/Desktop/androidjsontool/cmake-build-debug/CMakeFiles/androidjsontool.dir
